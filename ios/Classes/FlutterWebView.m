@@ -1,5 +1,4 @@
 #import "FlutterWebView.h"
-#import <WebKit/WebKit.h>
 
 @implementation FlutterNativeWebFactory {
     NSObject<FlutterBinaryMessenger>* _messenger;
